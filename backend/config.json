@@ -1,0 +1,13 @@
+{
+	"server": {
+		"port": 8080
+	},
+	"reader": {
+		"ip": "192.168.56.124",
+		"port": 1969,
+		"hostIP": "192.168.57.234",
+		"hostPort": 9000,
+		"checkInterval": 60,
+		"readInterval": 0.5
+	}
+}
